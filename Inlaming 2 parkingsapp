@@ -1,0 +1,41 @@
+Projekt: Skapa en parkeringsapp som hanterar bokning av parkeringsplatser, betalningar, och navigering på ett säkert och enkelt sätt.
+Fas 1: Kravinsamling
+• Mål: Samla in och dokumentera allt appen måste kunna.
+• Steg:
+1 Prata med potentiella användare och parkeringsbolag för att förstå deras behov.
+2 Lista funktionerna appen ska ha, t.ex. realtidsvisning av lediga platser, bokning, och betalningsfunktioner.
+3 Dokumentera viktiga krav som användarvänlighet, säkerhet, och snabbhet.
+4 Sammanställ allt i ett kravdokument som alla intressenter godkänner.
+Fas 2: Design
+• Mål: Skapa en plan för hur appen ska byggas.
+• Steg:
+1 Designa systemarkitekturen, inklusive backend för databehandling och frontend för användargränssnittet.
+2 Planera varje del, t.ex. bokning av parkeringsplatser, betalningar, och navigering.
+3 Skapa en säker databas för användar- och parkeringsinformation.
+4 Designa ett enkelt och tydligt användargränssnitt för mobilappen.
+Fas 3: Utveckling
+• Mål: Bygga appen enligt designplanen.
+• Steg:
+1 Utveckla funktioner för att visa tillgängliga parkeringsplatser, hantera bokningar och betalningar, samt navigera användare till parkeringsplatser.
+2 Integrera alla delar så att de fungerar sömlöst tillsammans och med externa system, som karttjänster och betalningslösningar.
+Fas 4: Testning
+• Mål: Säkerställa att allt fungerar korrekt.
+• Steg:
+1 Testa varje funktion separat, t.ex. boknings- och betalningsmoduler.
+2 Testa hur alla delar fungerar tillsammans i appen.
+3 Genomför omfattande tester av hela appens funktioner och användarupplevelse.
+4 Testa appens säkerhet noggrant, inklusive skydd av användardata och betalningsinformation.
+Fas 5: Lansering
+• Mål: Införa appen på marknaden.
+• Steg:
+1 Distribuera appen till App Store och Google Play.
+2 Träna supportpersonal i hur appen fungerar för att kunna hjälpa användare.
+3 Gör en mjuklansering med en liten användargrupp för att identifiera eventuella problem.
+4 Släpp appen för allmänheten.
+Fas 6: Underhåll
+• Mål: Hålla appen säker och fungerande.
+• Steg:
+1 Uppdatera appen regelbundet för att skydda mot nya säkerhetshot.
+2 Fixa eventuella buggar och optimera prestandan baserat på användarfeedback.
+3 Lägg till nya funktioner och förbättringar efter behov för att hålla appen relevant och användbar.
+Genom att följa denna steg-för-steg-process kan man utveckla en säker och användarvänlig parkeringsapp. Noggrann planering i varje fas hjälper till att undvika problem och minimera kostnader för förändringar. Denna metod liknar Vattenfallsmodellen och passar bra när kraven är tydliga från början.
